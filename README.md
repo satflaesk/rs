@@ -1,5 +1,32 @@
 | Resource | Completed&nbsp;On |
 | :--- | :---: |
+| [Native Support for Rust on the GPU](https://lwn.net/SubscriberLink/1095731/a5ecc9da2388b8ec/) | 2026-10-04 |
+| [We Have Named Arguments at Home](https://corrode.dev/blog/named-arguments-at-home/) | 2026-10-03 |
+| [Rusty Thoughts on "Parse, Don't Validate"](https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/) | 2026-10-02 |
+| [Finding Bugs](https://matklad.github.io/2026/09/19/finding-bugs.html) | 2026-10-02 |
+| [Named and Optional Arguments Are Awesome](https://botahamec.dev/named-optional-args) | 2026-10-01 |
+| [Arguing About Arguments](https://steveklabnik.com/writing/arguing-about-arguments/) | 2026-09-29 |
+| [`cargo-deny` Documentation](https://embarkstudios.github.io/cargo-deny/index.html) | 2026-09-28 |
+| [GitHub Actions Leaking Secrets When Miri Output Is Cached](https://blog.rust-lang.org/2026/09/21/github-actions-leaking-secrets-when-miri-output-is-cached/) | 2026-09-28 |
+| [Effective Rust](https://www.lurklurk.org/effective-rust/title-page.html) | 2026-09-28 |
+| [`cargo-vet` Documentation](https://mozilla.github.io/cargo-vet/index.html) | 2026-09-26 |
+| [Tips for Faster Rust CI Builds](https://corrode.dev/blog/tips-for-faster-ci-builds/) | 2026-09-25 |
+| [CO3: Toward the Optimal FFI](https://mversic.github.io/co3/) | 2026-09-25 |
+| [Optimizing a Single Rust Clippy Lint by 3133x](https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/) | 2026-09-24 |
+| [A Visual Guide to Async Rust](https://akesson.io/a-visual-guide-to-rust-async/) | 2026-09-24 |
+| [Trying to Make a Loop Auto-Vectorize](https://jsgroth.dev/blog/posts/trying-to-make-a-loop-auto-vectorize/) | 2026-09-23 |
+| [Rust Generics: From Static to Dynamic Dispatch](https://kerkour.com/rust-generics) | 2026-09-22 |
+| [Operators of Death: Checked Arithmetic in Rust](https://bitfieldconsulting.com/posts/operators-of-death) | 2026-09-21 |
+| [Introducing CUDA Rust: Two Tracks for Writing GPU Kernels](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/) | 2026-09-17 |
+| [Nine Rules for Compile-Time Work With Rust `const fn` (Part 2)](https://levelup.gitconnected.com/nine-rules-for-compile-time-work-with-rust-const-fn-part-2-76ccd0e8a965) | 2026-09-16 |
+| [Stabilizing Rust's "never" Type](https://lwn.net/Articles/1091015/) | 2026-09-14 |
+| [`Pin`](https://without.boats/blog/pin/) | 2026-09-11 |
+| [Pinning Down Rust's `Pin`](https://gmcgoldr.github.io/2026/08/27/pin-in-rust.html) | 2026-09-10 |
+| [Software That Must Not Be Wrong: Property Tests for a Pediatric Dosing Calculator](https://rust-blog.github.io/post/favi-child-property-tests/) | 2026-09-09 |
+| [Nine Rules for Compile-Time Work With Rust `const fn` (Part 1)](https://levelup.gitconnected.com/nine-rules-for-compile-time-work-with-rust-const-fn-part-1-a29f7dd62b2f) | 2026-09-08 |
+| [Rust Concurrency vs. Go Concurrency: Stackless vs. Stackful Coroutines](https://kerkour.com/rust-vs-go-concurrency) | 2026-09-07 |
+| [How We Developed the World's First Safety-Certified Product Written in Rust — And Why We Went Bare Metal](https://www.sonair.com/journal/how-we-safety-certified-the-worlds-first-rust-implementation) | 2026-09-07 |
+| [Could Cargo's Scheduler Be Better?](https://spirali.github.io/blog/cargo-scheduler/) | 2026-09-06 |
 | [How I Made Rustdoc 33% Faster in One Week](https://noahlev.org/blog/2026/08/27/making-rustdoc-faster/) | 2026-09-05 |
 | [How the Rust Standard Library Verification Contest Scaled Past Manual Proof Engineering](https://rustfoundation.org/media/how-the-rust-standard-library-verification-contest-scaled-past-manual-proof-engineering/) | 2026-09-05 |
 | [Scaling Memory Safety: AI-Assisted Rewrites of C/C++ Dependencies to Rust](https://bughunters.google.com/blog/scaling-memory-safety) | 2026-09-03 |
